@@ -1,0 +1,7 @@
+C:/Users/User/Desktop/my[[:space:]]code/GeminiScan/dist/GeminiScan/runtime/lib/modules filter=lfs diff=lfs merge=lfs -text
+
+# 排除編譯產出的路徑 (如果你選擇上傳的話)
+target/** linguist-vendored
+
+# 排除設定檔
+*.xml linguist-documentation
